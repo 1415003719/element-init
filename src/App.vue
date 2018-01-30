@@ -24,7 +24,7 @@
       </el-menu>
     </el-col>
     <el-col :span="20">
-      <h1>Content</h1>
+      <h1>Content test</h1>
     </el-col>
   </el-row>
 </template>
